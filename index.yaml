@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  rtsp-server-chart:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2023-05-12T09:37:24.748997012-03:00"
+    description: A Helm chart for Kubernetes With a Simple rtsp-server
+    digest: b574d144dfb9227487bdccb9ab9a92ead361f27e6b221828441ae8067a3d2b8b
+    name: rtsp-server-chart
+    type: application
+    urls:
+    - https://natryus.github.io/StreamingServer/rtsp-server-chart-0.9.0.tgz
+    version: 0.9.0
+generated: "2023-05-12T09:37:24.748283415-03:00"
